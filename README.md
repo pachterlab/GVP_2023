@@ -1,6 +1,6 @@
 # GVP_2023:
 
-This repository contains all the scripts necessary to reproduce figures in "Stochastic Systems Biology of the Cell Using Single-cell Genomics Data." All figure components are output in `figs/` in `pdf` and `png` (450 DPI) formats. Font sizes vary.
+This repository contains all the scripts necessary to reproduce figures in "Studying stochastic systems biology of the cell with single-cell genomics data." All figure components are output in `figs/` in `pdf` and `png` (450 DPI) formats. Font sizes vary.
 
 * Figure 1
   * Panel d: run `gg230227_cartoons.ipynb`. This will generate the files `fig1d_txmodels` (transcription models) and `fig1d_reactors` (reactor models).
