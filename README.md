@@ -1,4 +1,4 @@
-# GVP_2023:
+# GVP_2023: Studying stochastic systems biology of the cell with single-cell genomics data
 
 This repository contains all the scripts necessary to reproduce figures in "Studying stochastic systems biology of the cell with single-cell genomics data." All figure components are output in `figs/` in `pdf` and `png` (450 DPI) formats. Font sizes vary.
 
