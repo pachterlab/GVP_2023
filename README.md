@@ -28,5 +28,4 @@ This repository contains all the scripts necessary to reproduce figures in "Stud
   
 Notes:
 * I have tried to make the notebooks "safe," i.e., running them should take a reasonable amount of time, not perform any new computations, and not overwrite any data. 
-  * This is not the case for the empty droplet code, which is slow and has to redo all of the computations from zero. (This can be revised in the future).
-  * It is possible that I missed some places. If so, reach out so I can correct them. 
+  * This is not the case for the empty droplet code, which is slow and has to redo all of the computations from zero.
