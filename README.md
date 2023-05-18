@@ -6,7 +6,7 @@ This repository contains all the scripts necessary to reproduce figures in "Stud
   * Panel d: run `gg230227_cartoons.ipynb`. This will generate the files `fig1d_txmodels` (transcription models) and `fig1d_reactors` (reactor models).
 * Figure 2
   * Panel a: run the first cell and the last two cells of `gg230117_emptydrops.ipynb`. This will generate the file `fig2a_poissprod`. 
-  * Panels b, c, d, e: download the raw data from [Zenodo](https://zenodo.org/record/7694182). **Note this link is not yet active.** I can activate it if necessary. Run `gg230117_emptydrops.ipynb`. This will generate the files `fig2bcde`, which has the content for the body, and `emptydrops_supp_pbmc_1k_v3`, which has the content for the supplement.
+  * Panels b, c, d, e: download the raw data from [Zenodo](https://zenodo.org/record/7694182). Run `gg230117_emptydrops.ipynb`. This will generate the files `fig2bcde`, which has the content for the body, and `emptydrops_supp_pbmc_1k_v3`, which has the content for the supplement.
   * Supplements: run the five other `emptydrops` notebooks. They will generate `emptydrops_supp_brain_nuc_5k_v3`, `emptydrops_supp_desai_dmso`, `emptydrops_supp_heart_1k_v3`, `emptydrops_supp_neuron_1k_v3`, and `emptydrops_supp_pbmc_1k_v2`. 
     * Note: each notebook can take up to 15 minutes to run (gene-gene correlations are slow to calculate and store).
 * Figure 3
